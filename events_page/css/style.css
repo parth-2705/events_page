@@ -37,12 +37,12 @@ body {
 }
 .carousel__control a {
 	transition: transform .2s;
-	font-family: 'Luckiest Guy', cursive;
+	font-family: 'Montserrat', sans-serif;
 	/*font-family: 'Mate SC', serif;*/
 font-style: oblique;
 text-decoration: none;
-font-size: 25px;
-font-weight: bold;
+font-size: 23px;
+font-weight: 700;
 font-variant: small-caps;
 color:white;
 text-align: center;
